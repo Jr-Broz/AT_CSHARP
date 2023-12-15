@@ -17,8 +17,6 @@ namespace Assessment_C_Sharp.Data {
                     context.Pokemon.AddRange(new List<Pokemon>() {
 
                         new Pokemon() {
-
-                            ID = 1,
                             Nome = "Bulbasauto",
                             Peso = "10",
                             Fraqueza= "Fogo",

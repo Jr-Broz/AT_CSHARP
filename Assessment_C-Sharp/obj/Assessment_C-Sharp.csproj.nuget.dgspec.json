@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joao.rafael\\source\\repos\\Assessment_C-Sharp\\Assessment_C-Sharp\\Assessment_C-Sharp.csproj": {}
+    "C:\\Users\\joao.rafael\\Source\\Repos\\AT_CSHARPP\\Assessment_C-Sharp\\Assessment_C-Sharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joao.rafael\\source\\repos\\Assessment_C-Sharp\\Assessment_C-Sharp\\Assessment_C-Sharp.csproj": {
+    "C:\\Users\\joao.rafael\\Source\\Repos\\AT_CSHARPP\\Assessment_C-Sharp\\Assessment_C-Sharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joao.rafael\\source\\repos\\Assessment_C-Sharp\\Assessment_C-Sharp\\Assessment_C-Sharp.csproj",
+        "projectUniqueName": "C:\\Users\\joao.rafael\\Source\\Repos\\AT_CSHARPP\\Assessment_C-Sharp\\Assessment_C-Sharp.csproj",
         "projectName": "Assessment_C-Sharp",
-        "projectPath": "C:\\Users\\joao.rafael\\source\\repos\\Assessment_C-Sharp\\Assessment_C-Sharp\\Assessment_C-Sharp.csproj",
+        "projectPath": "C:\\Users\\joao.rafael\\Source\\Repos\\AT_CSHARPP\\Assessment_C-Sharp\\Assessment_C-Sharp.csproj",
         "packagesPath": "C:\\Users\\joao.rafael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joao.rafael\\source\\repos\\Assessment_C-Sharp\\Assessment_C-Sharp\\obj\\",
+        "outputPath": "C:\\Users\\joao.rafael\\Source\\Repos\\AT_CSHARPP\\Assessment_C-Sharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joao.rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",

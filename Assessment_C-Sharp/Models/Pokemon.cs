@@ -24,11 +24,17 @@ namespace Assessment_C_Sharp.Models {
 
         [DisplayName("Altura do Pokemon")]
         public string Altura { get; set; }
-                
+
+        [DisplayName("Data De Cadastro")]
+        [Required(ErrorMessage = "A data de criacao do pokemon não pode ficar em branco!")]
         public DateTime dataCriacao { get; set; }
+
 
         [Required(ErrorMessage = "O Peso do pokemon não pode ficar em branco!")]
         public string Peso { get; set; }
 
+        /*public string FileImageName;
+
+        public IFormFile Upload;*/
     }
 }
