@@ -18,6 +18,7 @@ namespace Assessment_C_Sharp.Data {
 
                         new Pokemon() {
                             Nome = "Bulbasauto",
+                            Tipo = "Grama",      
                             Peso = "10",
                             Fraqueza= "Fogo",
                             Altura = "1.90",
